@@ -200,7 +200,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "ISEKAI CREATURES ADD-ON - Isekai RPG Leveling",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VGE_DustCloud": {

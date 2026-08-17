@@ -29038,7 +29038,7 @@
       "BasePrice": 50,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_ManaCore": {
       "DefName": "Isekai_ManaCore",
@@ -29053,7 +29053,7 @@
       "BasePrice": 150,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_BigManaCore": {
       "DefName": "Isekai_BigManaCore",
@@ -29068,7 +29068,7 @@
       "BasePrice": 500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_HugeManaCore": {
       "DefName": "Isekai_HugeManaCore",
@@ -29083,7 +29083,7 @@
       "BasePrice": 1500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_RespecOrb": {
       "DefName": "Isekai_RespecOrb",
@@ -29098,7 +29098,7 @@
       "BasePrice": 500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_StarFragment": {
       "DefName": "Isekai_StarFragment",
@@ -29113,7 +29113,7 @@
       "BasePrice": 1000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_HerosAwakeningScroll": {
       "DefName": "Isekai_HerosAwakeningScroll",
@@ -29128,7 +29128,7 @@
       "BasePrice": 2500,
       "Category": "Artifacts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_ReincarnationCrystal": {
       "DefName": "Isekai_ReincarnationCrystal",
@@ -29143,7 +29143,7 @@
       "BasePrice": 2000,
       "Category": "Artifacts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_VillainsMask": {
       "DefName": "Isekai_VillainsMask",
@@ -29158,7 +29158,7 @@
       "BasePrice": 2200,
       "Category": "Artifacts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_SummoningCircleScroll": {
       "DefName": "Isekai_SummoningCircleScroll",
@@ -29173,7 +29173,7 @@
       "BasePrice": 1500,
       "Category": "Artifacts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_RegressionOrb": {
       "DefName": "Isekai_RegressionOrb",
@@ -29188,7 +29188,7 @@
       "BasePrice": 1800,
       "Category": "Artifacts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_ReinforcementCore": {
       "DefName": "Isekai_ReinforcementCore",
@@ -29203,7 +29203,7 @@
       "BasePrice": 800,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_ManaEssence": {
       "DefName": "Isekai_ManaEssence",
@@ -29218,7 +29218,7 @@
       "BasePrice": 150,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Forge": {
       "DefName": "Isekai_Forge",
@@ -29233,7 +29233,7 @@
       "BasePrice": 560,
       "Category": "Production",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_RunicStation": {
       "DefName": "Isekai_RunicStation",
@@ -29248,7 +29248,7 @@
       "BasePrice": 905,
       "Category": "Production",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Fury": {
       "DefName": "Isekai_Rune_Fury",
@@ -29263,7 +29263,7 @@
       "BasePrice": 150,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Fury_II": {
       "DefName": "Isekai_Rune_Fury_II",
@@ -29278,7 +29278,7 @@
       "BasePrice": 350,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Fury_III": {
       "DefName": "Isekai_Rune_Fury_III",
@@ -29293,7 +29293,7 @@
       "BasePrice": 650,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Fury_IV": {
       "DefName": "Isekai_Rune_Fury_IV",
@@ -29308,7 +29308,7 @@
       "BasePrice": 1200,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Fury_V": {
       "DefName": "Isekai_Rune_Fury_V",
@@ -29323,7 +29323,7 @@
       "BasePrice": 2000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Precision": {
       "DefName": "Isekai_Rune_Precision",
@@ -29338,7 +29338,7 @@
       "BasePrice": 150,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Precision_II": {
       "DefName": "Isekai_Rune_Precision_II",
@@ -29353,7 +29353,7 @@
       "BasePrice": 350,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Precision_III": {
       "DefName": "Isekai_Rune_Precision_III",
@@ -29368,7 +29368,7 @@
       "BasePrice": 650,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Precision_IV": {
       "DefName": "Isekai_Rune_Precision_IV",
@@ -29383,7 +29383,7 @@
       "BasePrice": 1200,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Precision_V": {
       "DefName": "Isekai_Rune_Precision_V",
@@ -29398,7 +29398,7 @@
       "BasePrice": 2000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Vampirism": {
       "DefName": "Isekai_Rune_Vampirism",
@@ -29413,7 +29413,7 @@
       "BasePrice": 225,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Vampirism_II": {
       "DefName": "Isekai_Rune_Vampirism_II",
@@ -29428,7 +29428,7 @@
       "BasePrice": 500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Vampirism_III": {
       "DefName": "Isekai_Rune_Vampirism_III",
@@ -29443,7 +29443,7 @@
       "BasePrice": 950,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Vampirism_IV": {
       "DefName": "Isekai_Rune_Vampirism_IV",
@@ -29458,7 +29458,7 @@
       "BasePrice": 1750,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Vampirism_V": {
       "DefName": "Isekai_Rune_Vampirism_V",
@@ -29473,7 +29473,7 @@
       "BasePrice": 3000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Thunder": {
       "DefName": "Isekai_Rune_Thunder",
@@ -29488,7 +29488,7 @@
       "BasePrice": 225,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Thunder_II": {
       "DefName": "Isekai_Rune_Thunder_II",
@@ -29503,7 +29503,7 @@
       "BasePrice": 500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Thunder_III": {
       "DefName": "Isekai_Rune_Thunder_III",
@@ -29518,7 +29518,7 @@
       "BasePrice": 950,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Thunder_IV": {
       "DefName": "Isekai_Rune_Thunder_IV",
@@ -29533,7 +29533,7 @@
       "BasePrice": 1750,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Thunder_V": {
       "DefName": "Isekai_Rune_Thunder_V",
@@ -29548,7 +29548,7 @@
       "BasePrice": 3000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Flame": {
       "DefName": "Isekai_Rune_Flame",
@@ -29563,7 +29563,7 @@
       "BasePrice": 175,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Flame_II": {
       "DefName": "Isekai_Rune_Flame_II",
@@ -29578,7 +29578,7 @@
       "BasePrice": 400,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Flame_III": {
       "DefName": "Isekai_Rune_Flame_III",
@@ -29593,7 +29593,7 @@
       "BasePrice": 750,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Flame_IV": {
       "DefName": "Isekai_Rune_Flame_IV",
@@ -29608,7 +29608,7 @@
       "BasePrice": 1400,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Flame_V": {
       "DefName": "Isekai_Rune_Flame_V",
@@ -29623,7 +29623,7 @@
       "BasePrice": 2300,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Frost": {
       "DefName": "Isekai_Rune_Frost",
@@ -29638,7 +29638,7 @@
       "BasePrice": 175,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Frost_II": {
       "DefName": "Isekai_Rune_Frost_II",
@@ -29653,7 +29653,7 @@
       "BasePrice": 400,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Frost_III": {
       "DefName": "Isekai_Rune_Frost_III",
@@ -29668,7 +29668,7 @@
       "BasePrice": 750,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Frost_IV": {
       "DefName": "Isekai_Rune_Frost_IV",
@@ -29683,7 +29683,7 @@
       "BasePrice": 1400,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Frost_V": {
       "DefName": "Isekai_Rune_Frost_V",
@@ -29698,7 +29698,7 @@
       "BasePrice": 2300,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Sharpness": {
       "DefName": "Isekai_Rune_Sharpness",
@@ -29713,7 +29713,7 @@
       "BasePrice": 275,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Sharpness_II": {
       "DefName": "Isekai_Rune_Sharpness_II",
@@ -29728,7 +29728,7 @@
       "BasePrice": 600,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Sharpness_III": {
       "DefName": "Isekai_Rune_Sharpness_III",
@@ -29743,7 +29743,7 @@
       "BasePrice": 1100,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Sharpness_IV": {
       "DefName": "Isekai_Rune_Sharpness_IV",
@@ -29758,7 +29758,7 @@
       "BasePrice": 2000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Sharpness_V": {
       "DefName": "Isekai_Rune_Sharpness_V",
@@ -29773,7 +29773,7 @@
       "BasePrice": 3500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Havoc": {
       "DefName": "Isekai_Rune_Havoc",
@@ -29788,7 +29788,7 @@
       "BasePrice": 350,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Havoc_II": {
       "DefName": "Isekai_Rune_Havoc_II",
@@ -29803,7 +29803,7 @@
       "BasePrice": 750,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Havoc_III": {
       "DefName": "Isekai_Rune_Havoc_III",
@@ -29818,7 +29818,7 @@
       "BasePrice": 1400,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Havoc_IV": {
       "DefName": "Isekai_Rune_Havoc_IV",
@@ -29833,7 +29833,7 @@
       "BasePrice": 2500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Havoc_V": {
       "DefName": "Isekai_Rune_Havoc_V",
@@ -29848,7 +29848,7 @@
       "BasePrice": 4500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Devastation": {
       "DefName": "Isekai_Rune_Devastation",
@@ -29863,7 +29863,7 @@
       "BasePrice": 275,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Devastation_II": {
       "DefName": "Isekai_Rune_Devastation_II",
@@ -29878,7 +29878,7 @@
       "BasePrice": 600,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Devastation_III": {
       "DefName": "Isekai_Rune_Devastation_III",
@@ -29893,7 +29893,7 @@
       "BasePrice": 1100,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Devastation_IV": {
       "DefName": "Isekai_Rune_Devastation_IV",
@@ -29908,7 +29908,7 @@
       "BasePrice": 2000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Devastation_V": {
       "DefName": "Isekai_Rune_Devastation_V",
@@ -29923,7 +29923,7 @@
       "BasePrice": 3500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Fortitude": {
       "DefName": "Isekai_Rune_Fortitude",
@@ -29938,7 +29938,7 @@
       "BasePrice": 150,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Fortitude_II": {
       "DefName": "Isekai_Rune_Fortitude_II",
@@ -29953,7 +29953,7 @@
       "BasePrice": 350,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Fortitude_III": {
       "DefName": "Isekai_Rune_Fortitude_III",
@@ -29968,7 +29968,7 @@
       "BasePrice": 650,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Fortitude_IV": {
       "DefName": "Isekai_Rune_Fortitude_IV",
@@ -29983,7 +29983,7 @@
       "BasePrice": 1200,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Fortitude_V": {
       "DefName": "Isekai_Rune_Fortitude_V",
@@ -29998,7 +29998,7 @@
       "BasePrice": 2000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Evasion": {
       "DefName": "Isekai_Rune_Evasion",
@@ -30013,7 +30013,7 @@
       "BasePrice": 150,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Evasion_II": {
       "DefName": "Isekai_Rune_Evasion_II",
@@ -30028,7 +30028,7 @@
       "BasePrice": 350,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Evasion_III": {
       "DefName": "Isekai_Rune_Evasion_III",
@@ -30043,7 +30043,7 @@
       "BasePrice": 650,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Evasion_IV": {
       "DefName": "Isekai_Rune_Evasion_IV",
@@ -30058,7 +30058,7 @@
       "BasePrice": 1200,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Evasion_V": {
       "DefName": "Isekai_Rune_Evasion_V",
@@ -30073,7 +30073,7 @@
       "BasePrice": 2000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Resistance": {
       "DefName": "Isekai_Rune_Resistance",
@@ -30088,7 +30088,7 @@
       "BasePrice": 175,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Resistance_II": {
       "DefName": "Isekai_Rune_Resistance_II",
@@ -30103,7 +30103,7 @@
       "BasePrice": 400,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Resistance_III": {
       "DefName": "Isekai_Rune_Resistance_III",
@@ -30118,7 +30118,7 @@
       "BasePrice": 750,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Resistance_IV": {
       "DefName": "Isekai_Rune_Resistance_IV",
@@ -30133,7 +30133,7 @@
       "BasePrice": 1400,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Resistance_V": {
       "DefName": "Isekai_Rune_Resistance_V",
@@ -30148,7 +30148,7 @@
       "BasePrice": 2300,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Regeneration": {
       "DefName": "Isekai_Rune_Regeneration",
@@ -30163,7 +30163,7 @@
       "BasePrice": 225,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Regeneration_II": {
       "DefName": "Isekai_Rune_Regeneration_II",
@@ -30178,7 +30178,7 @@
       "BasePrice": 500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Regeneration_III": {
       "DefName": "Isekai_Rune_Regeneration_III",
@@ -30193,7 +30193,7 @@
       "BasePrice": 950,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Regeneration_IV": {
       "DefName": "Isekai_Rune_Regeneration_IV",
@@ -30208,7 +30208,7 @@
       "BasePrice": 1750,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Regeneration_V": {
       "DefName": "Isekai_Rune_Regeneration_V",
@@ -30223,7 +30223,7 @@
       "BasePrice": 3000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Warding": {
       "DefName": "Isekai_Rune_Warding",
@@ -30238,7 +30238,7 @@
       "BasePrice": 225,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Warding_II": {
       "DefName": "Isekai_Rune_Warding_II",
@@ -30253,7 +30253,7 @@
       "BasePrice": 500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Warding_III": {
       "DefName": "Isekai_Rune_Warding_III",
@@ -30268,7 +30268,7 @@
       "BasePrice": 950,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Warding_IV": {
       "DefName": "Isekai_Rune_Warding_IV",
@@ -30283,7 +30283,7 @@
       "BasePrice": 1750,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Warding_V": {
       "DefName": "Isekai_Rune_Warding_V",
@@ -30298,7 +30298,7 @@
       "BasePrice": 3000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Vitality": {
       "DefName": "Isekai_Rune_Vitality",
@@ -30313,7 +30313,7 @@
       "BasePrice": 175,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Vitality_II": {
       "DefName": "Isekai_Rune_Vitality_II",
@@ -30328,7 +30328,7 @@
       "BasePrice": 400,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Vitality_III": {
       "DefName": "Isekai_Rune_Vitality_III",
@@ -30343,7 +30343,7 @@
       "BasePrice": 750,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Vitality_IV": {
       "DefName": "Isekai_Rune_Vitality_IV",
@@ -30358,7 +30358,7 @@
       "BasePrice": 1400,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Vitality_V": {
       "DefName": "Isekai_Rune_Vitality_V",
@@ -30373,7 +30373,7 @@
       "BasePrice": 2300,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Swiftness": {
       "DefName": "Isekai_Rune_Swiftness",
@@ -30388,7 +30388,7 @@
       "BasePrice": 275,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Swiftness_II": {
       "DefName": "Isekai_Rune_Swiftness_II",
@@ -30403,7 +30403,7 @@
       "BasePrice": 600,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Swiftness_III": {
       "DefName": "Isekai_Rune_Swiftness_III",
@@ -30418,7 +30418,7 @@
       "BasePrice": 1100,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Swiftness_IV": {
       "DefName": "Isekai_Rune_Swiftness_IV",
@@ -30433,7 +30433,7 @@
       "BasePrice": 2000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Swiftness_V": {
       "DefName": "Isekai_Rune_Swiftness_V",
@@ -30448,7 +30448,7 @@
       "BasePrice": 3500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Bulwark": {
       "DefName": "Isekai_Rune_Bulwark",
@@ -30463,7 +30463,7 @@
       "BasePrice": 350,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Bulwark_II": {
       "DefName": "Isekai_Rune_Bulwark_II",
@@ -30478,7 +30478,7 @@
       "BasePrice": 750,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Bulwark_III": {
       "DefName": "Isekai_Rune_Bulwark_III",
@@ -30493,7 +30493,7 @@
       "BasePrice": 1400,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Bulwark_IV": {
       "DefName": "Isekai_Rune_Bulwark_IV",
@@ -30508,7 +30508,7 @@
       "BasePrice": 2500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Isekai_Rune_Bulwark_V": {
       "DefName": "Isekai_Rune_Bulwark_V",
@@ -30523,7 +30523,7 @@
       "BasePrice": 4500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiArchangel_Common": {
       "DefName": "IsekaiArchangel_Common",
@@ -30538,7 +30538,7 @@
       "BasePrice": 50000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWeapon_ArchangelsWrath": {
       "DefName": "IsekaiWeapon_ArchangelsWrath",
@@ -30553,7 +30553,7 @@
       "BasePrice": 15000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWeapon_TempestWill": {
       "DefName": "IsekaiWeapon_TempestWill",
@@ -30568,7 +30568,7 @@
       "BasePrice": 14000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWeapon_CalamitysTalon": {
       "DefName": "IsekaiWeapon_CalamitysTalon",
@@ -30583,7 +30583,7 @@
       "BasePrice": 8000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWeapon_ValkyriesVerdict": {
       "DefName": "IsekaiWeapon_ValkyriesVerdict",
@@ -30598,7 +30598,7 @@
       "BasePrice": 8000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWeapon_LabyrinthsRevenge": {
       "DefName": "IsekaiWeapon_LabyrinthsRevenge",
@@ -30613,7 +30613,7 @@
       "BasePrice": 5000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWeapon_Bonebreaker": {
       "DefName": "IsekaiWeapon_Bonebreaker",
@@ -30628,7 +30628,7 @@
       "BasePrice": 3800,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWeapon_Mistcaller": {
       "DefName": "IsekaiWeapon_Mistcaller",
@@ -30643,7 +30643,7 @@
       "BasePrice": 13000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWeapon_MothersRoar": {
       "DefName": "IsekaiWeapon_MothersRoar",
@@ -30658,7 +30658,7 @@
       "BasePrice": 6500,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWeapon_EldestsEmber": {
       "DefName": "IsekaiWeapon_EldestsEmber",
@@ -30673,7 +30673,7 @@
       "BasePrice": 9000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiDemon_Lesser": {
       "DefName": "IsekaiDemon_Lesser",
@@ -30688,7 +30688,7 @@
       "BasePrice": 800,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiDemon_Common": {
       "DefName": "IsekaiDemon_Common",
@@ -30703,7 +30703,7 @@
       "BasePrice": 2500,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiDemon_Greater": {
       "DefName": "IsekaiDemon_Greater",
@@ -30718,7 +30718,7 @@
       "BasePrice": 6000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiDragon_True": {
       "DefName": "IsekaiDragon_True",
@@ -30733,7 +30733,7 @@
       "BasePrice": 40000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiDragon_Ancient": {
       "DefName": "IsekaiDragon_Ancient",
@@ -30748,7 +30748,7 @@
       "BasePrice": 80000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiGoblin_Runt": {
       "DefName": "IsekaiGoblin_Runt",
@@ -30763,7 +30763,7 @@
       "BasePrice": 80,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiGoblin_Warrior": {
       "DefName": "IsekaiGoblin_Warrior",
@@ -30778,7 +30778,7 @@
       "BasePrice": 150,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiGoblin_Hobgoblin": {
       "DefName": "IsekaiGoblin_Hobgoblin",
@@ -30793,7 +30793,7 @@
       "BasePrice": 350,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiGoblin_King": {
       "DefName": "IsekaiGoblin_King",
@@ -30808,7 +30808,7 @@
       "BasePrice": 2500,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiGrandBeast_Midhir": {
       "DefName": "IsekaiGrandBeast_Midhir",
@@ -30823,7 +30823,7 @@
       "BasePrice": 50000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiGrandBeast_WhaleOfTheMist": {
       "DefName": "IsekaiGrandBeast_WhaleOfTheMist",
@@ -30838,7 +30838,7 @@
       "BasePrice": 50000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiGrandBeast_Midhir_Minion": {
       "DefName": "IsekaiGrandBeast_Midhir_Minion",
@@ -30853,7 +30853,7 @@
       "BasePrice": 8000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiGrandBeast_Corcera": {
       "DefName": "IsekaiGrandBeast_Corcera",
@@ -30868,7 +30868,7 @@
       "BasePrice": 50000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiHellOgre_Common": {
       "DefName": "IsekaiHellOgre_Common",
@@ -30883,7 +30883,7 @@
       "BasePrice": 4500,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiImp_Lesser": {
       "DefName": "IsekaiImp_Lesser",
@@ -30898,7 +30898,7 @@
       "BasePrice": 250,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiImp_Common": {
       "DefName": "IsekaiImp_Common",
@@ -30913,7 +30913,7 @@
       "BasePrice": 700,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiImp_Greater": {
       "DefName": "IsekaiImp_Greater",
@@ -30928,7 +30928,7 @@
       "BasePrice": 2000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiKobold_Pup": {
       "DefName": "IsekaiKobold_Pup",
@@ -30943,7 +30943,7 @@
       "BasePrice": 50,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiKobold_Warrior": {
       "DefName": "IsekaiKobold_Warrior",
@@ -30958,7 +30958,7 @@
       "BasePrice": 120,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiKobold_Chieftain": {
       "DefName": "IsekaiKobold_Chieftain",
@@ -30973,7 +30973,7 @@
       "BasePrice": 280,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiKobold_Queen": {
       "DefName": "IsekaiKobold_Queen",
@@ -30988,7 +30988,7 @@
       "BasePrice": 2300,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiLich_Adult": {
       "DefName": "IsekaiLich_Adult",
@@ -31003,7 +31003,7 @@
       "BasePrice": 3000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiLich_Upper": {
       "DefName": "IsekaiLich_Upper",
@@ -31018,7 +31018,7 @@
       "BasePrice": 10000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiEgg_Goblin": {
       "DefName": "IsekaiEgg_Goblin",
@@ -31033,7 +31033,7 @@
       "BasePrice": 250,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiEgg_Kobold": {
       "DefName": "IsekaiEgg_Kobold",
@@ -31048,7 +31048,7 @@
       "BasePrice": 250,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiEgg_Orc": {
       "DefName": "IsekaiEgg_Orc",
@@ -31063,7 +31063,7 @@
       "BasePrice": 250,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiEgg_Slime": {
       "DefName": "IsekaiEgg_Slime",
@@ -31078,7 +31078,7 @@
       "BasePrice": 250,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiEgg_Imp": {
       "DefName": "IsekaiEgg_Imp",
@@ -31093,7 +31093,7 @@
       "BasePrice": 250,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiEgg_Demon": {
       "DefName": "IsekaiEgg_Demon",
@@ -31108,7 +31108,7 @@
       "BasePrice": 250,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiEgg_HellOgre": {
       "DefName": "IsekaiEgg_HellOgre",
@@ -31123,7 +31123,7 @@
       "BasePrice": 250,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiEgg_Troll": {
       "DefName": "IsekaiEgg_Troll",
@@ -31138,7 +31138,7 @@
       "BasePrice": 250,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiEgg_Minotaur": {
       "DefName": "IsekaiEgg_Minotaur",
@@ -31153,7 +31153,7 @@
       "BasePrice": 250,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiEgg_Wyvern": {
       "DefName": "IsekaiEgg_Wyvern",
@@ -31168,7 +31168,7 @@
       "BasePrice": 250,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiMinotaur_Adult": {
       "DefName": "IsekaiMinotaur_Adult",
@@ -31183,7 +31183,7 @@
       "BasePrice": 2000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiMinotaur_Upper": {
       "DefName": "IsekaiMinotaur_Upper",
@@ -31198,7 +31198,7 @@
       "BasePrice": 5500,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiOrc_Whelp": {
       "DefName": "IsekaiOrc_Whelp",
@@ -31213,7 +31213,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiOrc_Warrior": {
       "DefName": "IsekaiOrc_Warrior",
@@ -31228,7 +31228,7 @@
       "BasePrice": 500,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiOrc_Warlord": {
       "DefName": "IsekaiOrc_Warlord",
@@ -31243,7 +31243,7 @@
       "BasePrice": 1200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiGoblin_Slinger": {
       "DefName": "IsekaiGoblin_Slinger",
@@ -31258,7 +31258,7 @@
       "BasePrice": 100,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiGoblin_Archer": {
       "DefName": "IsekaiGoblin_Archer",
@@ -31273,7 +31273,7 @@
       "BasePrice": 180,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiGoblin_Marksman": {
       "DefName": "IsekaiGoblin_Marksman",
@@ -31288,7 +31288,7 @@
       "BasePrice": 400,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiKobold_Slinger": {
       "DefName": "IsekaiKobold_Slinger",
@@ -31303,7 +31303,7 @@
       "BasePrice": 50,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiKobold_Archer": {
       "DefName": "IsekaiKobold_Archer",
@@ -31318,7 +31318,7 @@
       "BasePrice": 90,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiKobold_Hunter": {
       "DefName": "IsekaiKobold_Hunter",
@@ -31333,7 +31333,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSealingCube": {
       "DefName": "IsekaiSealingCube",
@@ -31348,7 +31348,7 @@
       "BasePrice": 20000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Blue_Small": {
       "DefName": "IsekaiSlime_Blue_Small",
@@ -31363,7 +31363,7 @@
       "BasePrice": 30,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Blue_Medium": {
       "DefName": "IsekaiSlime_Blue_Medium",
@@ -31378,7 +31378,7 @@
       "BasePrice": 60,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Blue_Large": {
       "DefName": "IsekaiSlime_Blue_Large",
@@ -31393,7 +31393,7 @@
       "BasePrice": 120,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Green_Small": {
       "DefName": "IsekaiSlime_Green_Small",
@@ -31408,7 +31408,7 @@
       "BasePrice": 30,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Green_Medium": {
       "DefName": "IsekaiSlime_Green_Medium",
@@ -31423,7 +31423,7 @@
       "BasePrice": 60,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Green_Large": {
       "DefName": "IsekaiSlime_Green_Large",
@@ -31438,7 +31438,7 @@
       "BasePrice": 120,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Mud_Small": {
       "DefName": "IsekaiSlime_Mud_Small",
@@ -31453,7 +31453,7 @@
       "BasePrice": 30,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Mud_Medium": {
       "DefName": "IsekaiSlime_Mud_Medium",
@@ -31468,7 +31468,7 @@
       "BasePrice": 60,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Mud_Large": {
       "DefName": "IsekaiSlime_Mud_Large",
@@ -31483,7 +31483,7 @@
       "BasePrice": 120,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Red_Small": {
       "DefName": "IsekaiSlime_Red_Small",
@@ -31498,7 +31498,7 @@
       "BasePrice": 30,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Red_Medium": {
       "DefName": "IsekaiSlime_Red_Medium",
@@ -31513,7 +31513,7 @@
       "BasePrice": 60,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Red_Large": {
       "DefName": "IsekaiSlime_Red_Large",
@@ -31528,7 +31528,7 @@
       "BasePrice": 120,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Sky_Small": {
       "DefName": "IsekaiSlime_Sky_Small",
@@ -31543,7 +31543,7 @@
       "BasePrice": 30,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Sky_Medium": {
       "DefName": "IsekaiSlime_Sky_Medium",
@@ -31558,7 +31558,7 @@
       "BasePrice": 60,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Sky_Large": {
       "DefName": "IsekaiSlime_Sky_Large",
@@ -31573,7 +31573,7 @@
       "BasePrice": 120,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Yellow_Small": {
       "DefName": "IsekaiSlime_Yellow_Small",
@@ -31588,7 +31588,7 @@
       "BasePrice": 30,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Yellow_Medium": {
       "DefName": "IsekaiSlime_Yellow_Medium",
@@ -31603,7 +31603,7 @@
       "BasePrice": 60,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Yellow_Large": {
       "DefName": "IsekaiSlime_Yellow_Large",
@@ -31618,7 +31618,7 @@
       "BasePrice": 120,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Poison_Small": {
       "DefName": "IsekaiSlime_Poison_Small",
@@ -31633,7 +31633,7 @@
       "BasePrice": 30,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Poison_Medium": {
       "DefName": "IsekaiSlime_Poison_Medium",
@@ -31648,7 +31648,7 @@
       "BasePrice": 60,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Poison_Large": {
       "DefName": "IsekaiSlime_Poison_Large",
@@ -31663,7 +31663,7 @@
       "BasePrice": 120,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Frost_Small": {
       "DefName": "IsekaiSlime_Frost_Small",
@@ -31678,7 +31678,7 @@
       "BasePrice": 30,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Frost_Medium": {
       "DefName": "IsekaiSlime_Frost_Medium",
@@ -31693,7 +31693,7 @@
       "BasePrice": 60,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Frost_Large": {
       "DefName": "IsekaiSlime_Frost_Large",
@@ -31708,7 +31708,7 @@
       "BasePrice": 120,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Spark_Small": {
       "DefName": "IsekaiSlime_Spark_Small",
@@ -31723,7 +31723,7 @@
       "BasePrice": 30,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Spark_Medium": {
       "DefName": "IsekaiSlime_Spark_Medium",
@@ -31738,7 +31738,7 @@
       "BasePrice": 60,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Spark_Large": {
       "DefName": "IsekaiSlime_Spark_Large",
@@ -31753,7 +31753,7 @@
       "BasePrice": 120,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Metal_Small": {
       "DefName": "IsekaiSlime_Metal_Small",
@@ -31768,7 +31768,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Metal_Medium": {
       "DefName": "IsekaiSlime_Metal_Medium",
@@ -31783,7 +31783,7 @@
       "BasePrice": 600,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiSlime_Metal_Large": {
       "DefName": "IsekaiSlime_Metal_Large",
@@ -31798,7 +31798,7 @@
       "BasePrice": 1500,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiTreant_Sapling": {
       "DefName": "IsekaiTreant_Sapling",
@@ -31813,7 +31813,7 @@
       "BasePrice": 700,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiTreant_Adult": {
       "DefName": "IsekaiTreant_Adult",
@@ -31828,7 +31828,7 @@
       "BasePrice": 2200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiTreant_Upper": {
       "DefName": "IsekaiTreant_Upper",
@@ -31843,7 +31843,7 @@
       "BasePrice": 5500,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiTroll_Baby": {
       "DefName": "IsekaiTroll_Baby",
@@ -31858,7 +31858,7 @@
       "BasePrice": 600,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiTroll_Adult": {
       "DefName": "IsekaiTroll_Adult",
@@ -31873,7 +31873,7 @@
       "BasePrice": 1800,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiTroll_Upper": {
       "DefName": "IsekaiTroll_Upper",
@@ -31888,7 +31888,7 @@
       "BasePrice": 5000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiValkyrie_Common": {
       "DefName": "IsekaiValkyrie_Common",
@@ -31903,7 +31903,7 @@
       "BasePrice": 15000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWyvern_Normal": {
       "DefName": "IsekaiWyvern_Normal",
@@ -31918,7 +31918,7 @@
       "BasePrice": 2800,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWyvern_Ice": {
       "DefName": "IsekaiWyvern_Ice",
@@ -31933,7 +31933,7 @@
       "BasePrice": 3200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWyvern_Rock": {
       "DefName": "IsekaiWyvern_Rock",
@@ -31948,7 +31948,7 @@
       "BasePrice": 3500,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWyvern_Sand": {
       "DefName": "IsekaiWyvern_Sand",
@@ -31963,7 +31963,7 @@
       "BasePrice": 3200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWyvern_Poison": {
       "DefName": "IsekaiWyvern_Poison",
@@ -31978,7 +31978,7 @@
       "BasePrice": 3300,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "IsekaiWyvern_Dark": {
       "DefName": "IsekaiWyvern_Dark",
@@ -31993,7 +31993,7 @@
       "BasePrice": 4000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AEXP_EggCrocodileUnfertilized": {
       "DefName": "AEXP_EggCrocodileUnfertilized",
@@ -45283,7 +45283,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiDemon_Lesser": {
       "DefName": "Meat_IsekaiDemon_Lesser",
@@ -45298,7 +45298,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiDemon_Common": {
       "DefName": "Meat_IsekaiDemon_Common",
@@ -45313,7 +45313,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiDemon_Greater": {
       "DefName": "Meat_IsekaiDemon_Greater",
@@ -45328,7 +45328,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiDragon_True": {
       "DefName": "Meat_IsekaiDragon_True",
@@ -45343,7 +45343,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiDragon_Ancient": {
       "DefName": "Meat_IsekaiDragon_Ancient",
@@ -45358,7 +45358,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiGoblin_Runt": {
       "DefName": "Meat_IsekaiGoblin_Runt",
@@ -45373,7 +45373,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiGoblin_Warrior": {
       "DefName": "Meat_IsekaiGoblin_Warrior",
@@ -45388,7 +45388,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiGoblin_Hobgoblin": {
       "DefName": "Meat_IsekaiGoblin_Hobgoblin",
@@ -45403,7 +45403,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiGoblin_King": {
       "DefName": "Meat_IsekaiGoblin_King",
@@ -45418,7 +45418,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiGrandBeast_Midhir": {
       "DefName": "Meat_IsekaiGrandBeast_Midhir",
@@ -45433,7 +45433,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiGrandBeast_WhaleOfTheMist": {
       "DefName": "Meat_IsekaiGrandBeast_WhaleOfTheMist",
@@ -45448,7 +45448,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiGrandBeast_Midhir_Minion": {
       "DefName": "Meat_IsekaiGrandBeast_Midhir_Minion",
@@ -45463,7 +45463,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiGrandBeast_Corcera": {
       "DefName": "Meat_IsekaiGrandBeast_Corcera",
@@ -45478,7 +45478,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiHellOgre_Common": {
       "DefName": "Meat_IsekaiHellOgre_Common",
@@ -45493,7 +45493,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiImp_Lesser": {
       "DefName": "Meat_IsekaiImp_Lesser",
@@ -45508,7 +45508,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiImp_Common": {
       "DefName": "Meat_IsekaiImp_Common",
@@ -45523,7 +45523,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiImp_Greater": {
       "DefName": "Meat_IsekaiImp_Greater",
@@ -45538,7 +45538,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiKobold_Pup": {
       "DefName": "Meat_IsekaiKobold_Pup",
@@ -45553,7 +45553,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiKobold_Warrior": {
       "DefName": "Meat_IsekaiKobold_Warrior",
@@ -45568,7 +45568,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiKobold_Chieftain": {
       "DefName": "Meat_IsekaiKobold_Chieftain",
@@ -45583,7 +45583,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiKobold_Queen": {
       "DefName": "Meat_IsekaiKobold_Queen",
@@ -45598,7 +45598,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiLich_Adult": {
       "DefName": "Meat_IsekaiLich_Adult",
@@ -45613,7 +45613,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiLich_Upper": {
       "DefName": "Meat_IsekaiLich_Upper",
@@ -45628,7 +45628,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiMinotaur_Adult": {
       "DefName": "Meat_IsekaiMinotaur_Adult",
@@ -45643,7 +45643,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiMinotaur_Upper": {
       "DefName": "Meat_IsekaiMinotaur_Upper",
@@ -45658,7 +45658,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiOrc_Whelp": {
       "DefName": "Meat_IsekaiOrc_Whelp",
@@ -45673,7 +45673,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiOrc_Warrior": {
       "DefName": "Meat_IsekaiOrc_Warrior",
@@ -45688,7 +45688,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiOrc_Warlord": {
       "DefName": "Meat_IsekaiOrc_Warlord",
@@ -45703,7 +45703,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiGoblin_Slinger": {
       "DefName": "Meat_IsekaiGoblin_Slinger",
@@ -45718,7 +45718,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiGoblin_Archer": {
       "DefName": "Meat_IsekaiGoblin_Archer",
@@ -45733,7 +45733,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiGoblin_Marksman": {
       "DefName": "Meat_IsekaiGoblin_Marksman",
@@ -45748,7 +45748,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiKobold_Slinger": {
       "DefName": "Meat_IsekaiKobold_Slinger",
@@ -45763,7 +45763,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiKobold_Archer": {
       "DefName": "Meat_IsekaiKobold_Archer",
@@ -45778,7 +45778,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiKobold_Hunter": {
       "DefName": "Meat_IsekaiKobold_Hunter",
@@ -45793,7 +45793,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Blue_Small": {
       "DefName": "Meat_IsekaiSlime_Blue_Small",
@@ -45808,7 +45808,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Blue_Medium": {
       "DefName": "Meat_IsekaiSlime_Blue_Medium",
@@ -45823,7 +45823,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Blue_Large": {
       "DefName": "Meat_IsekaiSlime_Blue_Large",
@@ -45838,7 +45838,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Green_Small": {
       "DefName": "Meat_IsekaiSlime_Green_Small",
@@ -45853,7 +45853,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Green_Medium": {
       "DefName": "Meat_IsekaiSlime_Green_Medium",
@@ -45868,7 +45868,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Green_Large": {
       "DefName": "Meat_IsekaiSlime_Green_Large",
@@ -45883,7 +45883,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Mud_Small": {
       "DefName": "Meat_IsekaiSlime_Mud_Small",
@@ -45898,7 +45898,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Mud_Medium": {
       "DefName": "Meat_IsekaiSlime_Mud_Medium",
@@ -45913,7 +45913,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Mud_Large": {
       "DefName": "Meat_IsekaiSlime_Mud_Large",
@@ -45928,7 +45928,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Red_Small": {
       "DefName": "Meat_IsekaiSlime_Red_Small",
@@ -45943,7 +45943,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Red_Medium": {
       "DefName": "Meat_IsekaiSlime_Red_Medium",
@@ -45958,7 +45958,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Red_Large": {
       "DefName": "Meat_IsekaiSlime_Red_Large",
@@ -45973,7 +45973,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Sky_Small": {
       "DefName": "Meat_IsekaiSlime_Sky_Small",
@@ -45988,7 +45988,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Sky_Medium": {
       "DefName": "Meat_IsekaiSlime_Sky_Medium",
@@ -46003,7 +46003,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Sky_Large": {
       "DefName": "Meat_IsekaiSlime_Sky_Large",
@@ -46018,7 +46018,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Yellow_Small": {
       "DefName": "Meat_IsekaiSlime_Yellow_Small",
@@ -46033,7 +46033,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Yellow_Medium": {
       "DefName": "Meat_IsekaiSlime_Yellow_Medium",
@@ -46048,7 +46048,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Yellow_Large": {
       "DefName": "Meat_IsekaiSlime_Yellow_Large",
@@ -46063,7 +46063,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Poison_Small": {
       "DefName": "Meat_IsekaiSlime_Poison_Small",
@@ -46078,7 +46078,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Poison_Medium": {
       "DefName": "Meat_IsekaiSlime_Poison_Medium",
@@ -46093,7 +46093,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Poison_Large": {
       "DefName": "Meat_IsekaiSlime_Poison_Large",
@@ -46108,7 +46108,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Frost_Small": {
       "DefName": "Meat_IsekaiSlime_Frost_Small",
@@ -46123,7 +46123,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Frost_Medium": {
       "DefName": "Meat_IsekaiSlime_Frost_Medium",
@@ -46138,7 +46138,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Frost_Large": {
       "DefName": "Meat_IsekaiSlime_Frost_Large",
@@ -46153,7 +46153,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Spark_Small": {
       "DefName": "Meat_IsekaiSlime_Spark_Small",
@@ -46168,7 +46168,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Spark_Medium": {
       "DefName": "Meat_IsekaiSlime_Spark_Medium",
@@ -46183,7 +46183,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Spark_Large": {
       "DefName": "Meat_IsekaiSlime_Spark_Large",
@@ -46198,7 +46198,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Metal_Small": {
       "DefName": "Meat_IsekaiSlime_Metal_Small",
@@ -46213,7 +46213,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Metal_Medium": {
       "DefName": "Meat_IsekaiSlime_Metal_Medium",
@@ -46228,7 +46228,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiSlime_Metal_Large": {
       "DefName": "Meat_IsekaiSlime_Metal_Large",
@@ -46243,7 +46243,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiTreant_Sapling": {
       "DefName": "Meat_IsekaiTreant_Sapling",
@@ -46258,7 +46258,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiTreant_Adult": {
       "DefName": "Meat_IsekaiTreant_Adult",
@@ -46273,7 +46273,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiTreant_Upper": {
       "DefName": "Meat_IsekaiTreant_Upper",
@@ -46288,7 +46288,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiTroll_Baby": {
       "DefName": "Meat_IsekaiTroll_Baby",
@@ -46303,7 +46303,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiTroll_Adult": {
       "DefName": "Meat_IsekaiTroll_Adult",
@@ -46318,7 +46318,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiTroll_Upper": {
       "DefName": "Meat_IsekaiTroll_Upper",
@@ -46333,7 +46333,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiValkyrie_Common": {
       "DefName": "Meat_IsekaiValkyrie_Common",
@@ -46348,7 +46348,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiWyvern_Normal": {
       "DefName": "Meat_IsekaiWyvern_Normal",
@@ -46363,7 +46363,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiWyvern_Ice": {
       "DefName": "Meat_IsekaiWyvern_Ice",
@@ -46378,7 +46378,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiWyvern_Rock": {
       "DefName": "Meat_IsekaiWyvern_Rock",
@@ -46393,7 +46393,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiWyvern_Sand": {
       "DefName": "Meat_IsekaiWyvern_Sand",
@@ -46408,7 +46408,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiWyvern_Poison": {
       "DefName": "Meat_IsekaiWyvern_Poison",
@@ -46423,7 +46423,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_IsekaiWyvern_Dark": {
       "DefName": "Meat_IsekaiWyvern_Dark",
@@ -46438,7 +46438,7 @@
       "BasePrice": 2,
       "Category": "Monstrous meats",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Meat_AEXP_Giraffe": {
       "DefName": "Meat_AEXP_Giraffe",
@@ -49706,6 +49706,1206 @@
       "IsWearable": false,
       "Mod": "Hospitality",
       "BasePrice": 90,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_BanquetTable": {
+      "DefName": "AM_BanquetTable",
+      "CustomName": "Banquet table",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 360,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicBed": {
+      "DefName": "AM_CubicBed",
+      "CustomName": "Cubic bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 93,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_DoubleCubicBed": {
+      "DefName": "AM_DoubleCubicBed",
+      "CustomName": "Double cubic bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 175,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicHospitalBed": {
+      "DefName": "AM_CubicHospitalBed",
+      "CustomName": "Cubic hospital bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 400,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_HoraxianBed": {
+      "DefName": "AM_HoraxianBed",
+      "CustomName": "Horaxian bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 93,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_DoubleHoraxianBed": {
+      "DefName": "AM_DoubleHoraxianBed",
+      "CustomName": "Double horaxian bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 175,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicSlab_Medium": {
+      "DefName": "AM_CubicSlab_Medium",
+      "CustomName": "Cubic slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicSlab_Broad": {
+      "DefName": "AM_CubicSlab_Broad",
+      "CustomName": "Cubic slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_FleshSlab_Medium": {
+      "DefName": "AM_FleshSlab_Medium",
+      "CustomName": "Flesh slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_FleshSlab_Broad": {
+      "DefName": "AM_FleshSlab_Broad",
+      "CustomName": "Flesh slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_HoraxianSlab_Medium": {
+      "DefName": "AM_HoraxianSlab_Medium",
+      "CustomName": "Horaxian slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_HoraxianSlab_Broad": {
+      "DefName": "AM_HoraxianSlab_Broad",
+      "CustomName": "Horaxian slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Pyramid": {
+      "DefName": "AM_Pyramid",
+      "CustomName": "Pyramid",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 2880,
+      "Category": "Art",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_GrandGate": {
+      "DefName": "AM_GrandGate",
+      "CustomName": "Grand gate",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 1070,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_FuturisticObelisk": {
+      "DefName": "AM_FuturisticObelisk",
+      "CustomName": "Futuristic obelisk",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 835,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_FuturisticStele": {
+      "DefName": "AM_FuturisticStele",
+      "CustomName": "Futuristic stele",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 835,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_FuturisticPyramid": {
+      "DefName": "AM_FuturisticPyramid",
+      "CustomName": "Futuristic great pyramid",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 17880,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_GreatPyramid": {
+      "DefName": "AM_GreatPyramid",
+      "CustomName": "Great pyramid",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 19440,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Sphynx": {
+      "DefName": "AM_Sphynx",
+      "CustomName": "Sphinx",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 9720,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Megalith": {
+      "DefName": "AM_Megalith",
+      "CustomName": "Megalith",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 1170,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_StoneBedroll": {
+      "DefName": "AM_StoneBedroll",
+      "CustomName": "Stone-framed bedroll",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 95,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_DoubleStoneBedroll": {
+      "DefName": "AM_DoubleStoneBedroll",
+      "CustomName": "Double stone-framed bedroll",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 177,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AncientBed": {
+      "DefName": "AM_AncientBed",
+      "CustomName": "Restored ancient bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 63,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AncientDoubleBed": {
+      "DefName": "AM_AncientDoubleBed",
+      "CustomName": "Restored ancient double bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 145,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AncientOperatingTable": {
+      "DefName": "AM_AncientOperatingTable",
+      "CustomName": "Restored ancient operating table",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 390,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AncientLockerBank": {
+      "DefName": "AM_AncientLockerBank",
+      "CustomName": "Ancient locker bank",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 255,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_StoneTable_1x2c": {
+      "DefName": "AM_Neolithic_StoneTable_1x2c",
+      "CustomName": "Crude stone table (1x2)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 59,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_StoneTable_2x2c": {
+      "DefName": "AM_Neolithic_StoneTable_2x2c",
+      "CustomName": "Crude stone table (2x2)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 105,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_StoneTable_2x4c": {
+      "DefName": "AM_Neolithic_StoneTable_2x4c",
+      "CustomName": "Crude stone table (2x4)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 200,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_StoneTable_3x3c": {
+      "DefName": "AM_Neolithic_StoneTable_3x3c",
+      "CustomName": "Crude stone table (3x3)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 210,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_WoodenTable_1x2c": {
+      "DefName": "AM_Neolithic_WoodenTable_1x2c",
+      "CustomName": "Crude wooden table (1x2)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 59,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_WoodenTable_2x2c": {
+      "DefName": "AM_Neolithic_WoodenTable_2x2c",
+      "CustomName": "Crude wooden table (2x2)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 105,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_WoodenTable_2x4c": {
+      "DefName": "AM_Neolithic_WoodenTable_2x4c",
+      "CustomName": "Crude wooden table (2x4)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 200,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Neolithic_WoodenTable_3x3c": {
+      "DefName": "AM_Neolithic_WoodenTable_3x3c",
+      "CustomName": "Crude wooden table (3x3)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 210,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_TrapBlunt": {
+      "DefName": "AM_TrapBlunt",
+      "CustomName": "Blunt trap",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 67,
+      "Category": "Security",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AnimalDatabase": {
+      "DefName": "AM_AnimalDatabase",
+      "CustomName": "Animal database",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 93,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Apparel_Eyepatch": {
+      "DefName": "AM_Apparel_Eyepatch",
+      "CustomName": "Eyepatch",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Alpha Memes",
+      "BasePrice": 24,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_JewishSlab_Medium": {
+      "DefName": "AM_JewishSlab_Medium",
+      "CustomName": "Jewish slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_JewishSlab_Broad": {
+      "DefName": "AM_JewishSlab_Broad",
+      "CustomName": "Jewish slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_KemeticSlab_Medium": {
+      "DefName": "AM_KemeticSlab_Medium",
+      "CustomName": "Kemetic slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_KemeticSlab_Broad": {
+      "DefName": "AM_KemeticSlab_Broad",
+      "CustomName": "Kemetic slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_HinduSlab_Medium": {
+      "DefName": "AM_HinduSlab_Medium",
+      "CustomName": "Hindu slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_HinduSlab_Broad": {
+      "DefName": "AM_HinduSlab_Broad",
+      "CustomName": "Hindu slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_SteampunkSlab_Medium": {
+      "DefName": "AM_SteampunkSlab_Medium",
+      "CustomName": "Steampunk slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_SteampunkSlab_Broad": {
+      "DefName": "AM_SteampunkSlab_Broad",
+      "CustomName": "Steampunk slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CorsairSlab_Medium": {
+      "DefName": "AM_CorsairSlab_Medium",
+      "CustomName": "Corsair slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CorsairSlab_Broad": {
+      "DefName": "AM_CorsairSlab_Broad",
+      "CustomName": "Corsair slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_JainSlab_Medium": {
+      "DefName": "AM_JainSlab_Medium",
+      "CustomName": "Jain slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_JainSlab_Broad": {
+      "DefName": "AM_JainSlab_Broad",
+      "CustomName": "Jain slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_SikhSlab_Medium": {
+      "DefName": "AM_SikhSlab_Medium",
+      "CustomName": "Sikh slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_SikhSlab_Broad": {
+      "DefName": "AM_SikhSlab_Broad",
+      "CustomName": "Sikh slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_IslamicSlab_Medium": {
+      "DefName": "AM_IslamicSlab_Medium",
+      "CustomName": "Islamic slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_IslamicSlab_Broad": {
+      "DefName": "AM_IslamicSlab_Broad",
+      "CustomName": "Islamic slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_ChristianSlab_Medium": {
+      "DefName": "AM_ChristianSlab_Medium",
+      "CustomName": "Christian slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_ChristianSlab_Broad": {
+      "DefName": "AM_ChristianSlab_Broad",
+      "CustomName": "Christian slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_BuddhistSlab_Medium": {
+      "DefName": "AM_BuddhistSlab_Medium",
+      "CustomName": "Buddhist slab (medium)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 205,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_BuddhistSlab_Broad": {
+      "DefName": "AM_BuddhistSlab_Broad",
+      "CustomName": "Buddhist slab (broad)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_BlocksPristineLimestone": {
+      "DefName": "AM_BlocksPristineLimestone",
+      "CustomName": "Pristine limestone blocks",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 75,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 1,
+      "Category": "Stone blocks",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AA_Eyeling": {
+      "DefName": "AA_Eyeling",
+      "CustomName": "Eyeling",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 100,
+      "Category": "Animals",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_UnshackledDryad": {
+      "DefName": "AM_UnshackledDryad",
+      "CustomName": "Unshackled dryad",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 250,
+      "Category": "Animals",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_SkyBurialSpot": {
+      "DefName": "AM_SkyBurialSpot",
+      "CustomName": "Sky burial spot",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 86,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Urn": {
+      "DefName": "AM_Urn",
+      "CustomName": "Urn",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 42,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_MummyMale": {
+      "DefName": "AM_MummyMale",
+      "CustomName": "Mummified",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 118,
+      "Category": "Art",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_MummyFemale": {
+      "DefName": "AM_MummyFemale",
+      "CustomName": "Mummified",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Alpha Memes",
+      "BasePrice": 118,
+      "Category": "Art",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_LassoCloth": {
+      "DefName": "AM_LassoCloth",
+      "CustomName": "Lasso",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Melee Animation",
+      "BasePrice": 150,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_LassoDevilstrand": {
+      "DefName": "AM_LassoDevilstrand",
+      "CustomName": "Devilstrand Lasso",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Melee Animation",
+      "BasePrice": 300,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_LassoHyperwave": {
+      "DefName": "AM_LassoHyperwave",
+      "CustomName": "Hyperweave Lasso",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Melee Animation",
+      "BasePrice": 350,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_Weebstick": {
+      "DefName": "AM_Weebstick",
+      "CustomName": "Scarlet Edge",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Melee Animation",
+      "BasePrice": 3500,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicCrib": {
+      "DefName": "AM_CubicCrib",
+      "CustomName": "Cubic crib",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "RimWorld",
+      "BasePrice": 51,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicBedGuest": {
+      "DefName": "AM_CubicBedGuest",
+      "CustomName": "Guest cubic bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Hospitality",
+      "BasePrice": 93,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_DoubleCubicBedGuest": {
+      "DefName": "AM_DoubleCubicBedGuest",
+      "CustomName": "Guest double cubic bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Hospitality",
+      "BasePrice": 175,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicHospitalBedGuest": {
+      "DefName": "AM_CubicHospitalBedGuest",
+      "CustomName": "Guest cubic hospital bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Hospitality",
+      "BasePrice": 400,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_HoraxianBedGuest": {
+      "DefName": "AM_HoraxianBedGuest",
+      "CustomName": "Guest horaxian bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Hospitality",
+      "BasePrice": 93,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_DoubleHoraxianBedGuest": {
+      "DefName": "AM_DoubleHoraxianBedGuest",
+      "CustomName": "Guest double horaxian bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Hospitality",
+      "BasePrice": 175,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_StoneBedrollGuest": {
+      "DefName": "AM_StoneBedrollGuest",
+      "CustomName": "Guest stone-framed bedroll",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Hospitality",
+      "BasePrice": 95,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_DoubleStoneBedrollGuest": {
+      "DefName": "AM_DoubleStoneBedrollGuest",
+      "CustomName": "Guest double stone-framed bedroll",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Hospitality",
+      "BasePrice": 177,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AncientBedGuest": {
+      "DefName": "AM_AncientBedGuest",
+      "CustomName": "Guest restored ancient bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Hospitality",
+      "BasePrice": 63,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AncientDoubleBedGuest": {
+      "DefName": "AM_AncientDoubleBedGuest",
+      "CustomName": "Guest restored ancient double bed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Hospitality",
+      "BasePrice": 145,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_AncientOperatingTableGuest": {
+      "DefName": "AM_AncientOperatingTableGuest",
+      "CustomName": "Guest restored ancient operating table",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Hospitality",
+      "BasePrice": 390,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AM_CubicCribGuest": {
+      "DefName": "AM_CubicCribGuest",
+      "CustomName": "Guest cubic crib",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Hospitality",
+      "BasePrice": 51,
       "Category": "Furniture",
       "Enabled": true,
       "modactive": true

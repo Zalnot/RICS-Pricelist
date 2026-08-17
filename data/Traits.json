@@ -1592,7 +1592,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Antagonist_0": {
@@ -1613,7 +1613,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Reincarnated_0": {
@@ -1632,7 +1632,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Regressor_0": {
@@ -1651,7 +1651,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_SummonedHero_0": {
@@ -1673,7 +1673,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_NaturalTalent_0": {
@@ -1692,7 +1692,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Prodigy_0": {
@@ -1711,7 +1711,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_LateBloomer_0": {
@@ -1730,7 +1730,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_QuickLearner_0": {
@@ -1749,7 +1749,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_SlowGrind_0": {
@@ -1768,7 +1768,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_PowerSpike_0": {
@@ -1787,7 +1787,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_AwakenedPotential_0": {
@@ -1806,7 +1806,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Genius_0": {
@@ -1825,7 +1825,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_BattleManiac_0": {
@@ -1846,7 +1846,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_BerserkerBlood_0": {
@@ -1867,7 +1867,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_IronWill_0": {
@@ -1890,7 +1890,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_GlassCannon_0": {
@@ -1909,7 +1909,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Fortress_0": {
@@ -1932,7 +1932,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_ShadowStep_0": {
@@ -1953,7 +1953,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_PredatorInstinct_0": {
@@ -1976,7 +1976,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Undying_0": {
@@ -1997,7 +1997,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Mighty_0": {
@@ -2016,7 +2016,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Agile_0": {
@@ -2035,7 +2035,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Resilient_0": {
@@ -2054,7 +2054,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Brilliant_0": {
@@ -2073,7 +2073,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Enlightened_0": {
@@ -2092,7 +2092,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_SilverTongue_0": {
@@ -2111,7 +2111,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_MerchantEye_0": {
@@ -2133,7 +2133,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_CraftsmanSoul_0": {
@@ -2152,7 +2152,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_BeastWhisperer_0": {
@@ -2175,7 +2175,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_HealerTouch_0": {
@@ -2197,7 +2197,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Lucky_0": {
@@ -2220,7 +2220,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_CursedLuck_0": {
@@ -2242,7 +2242,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_HollowCore_0": {
@@ -2261,7 +2261,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_FragileVessel_0": {
@@ -2280,7 +2280,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_EchoOfDefeat_0": {
@@ -2299,7 +2299,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_SealedPower_0": {
@@ -2318,7 +2318,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_F_0": {
@@ -2342,7 +2342,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_E_0": {
@@ -2365,7 +2365,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_D_0": {
@@ -2386,7 +2386,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_C_0": {
@@ -2409,7 +2409,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_B_0": {
@@ -2433,7 +2433,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_A_0": {
@@ -2458,7 +2458,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_S_0": {
@@ -2483,7 +2483,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_SS_0": {
@@ -2508,7 +2508,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_SSS_0": {
@@ -2533,7 +2533,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VPE_Thrall_0": {
@@ -2613,6 +2613,25 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Wolfein Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "AM_Ahimsa_0": {
+    "DefName": "AM_Ahimsa",
+    "Name": "Vow of nonviolence",
+    "Degree": 0,
+    "Description": "A strict principle of nonviolence which applies to all living things.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Alpha Memes",
     "modactive": true,
     "Version": 1
   }
